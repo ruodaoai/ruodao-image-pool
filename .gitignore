@@ -1,0 +1,8 @@
+# 运行时数据不随插件分发（克隆的网关、venv、账号、日志、安装包）
+# 统一存放在系统应用数据目录：%LOCALAPPDATA%\RuodaoImagePool（macOS/Linux 对应路径）
+data/
+
+# 依赖产物
+node_modules/
+__pycache__/
+*.pyc

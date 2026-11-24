@@ -1,0 +1,10 @@
+{
+  "name": "image-pool",
+  "displayName": "生图号池（gpt-image-2.6 / 2 + 原生 GIF）",
+  "version": "1.10.1",
+  "description": "原生号池生图插件：内置固定版本引擎与 Python 隔离环境，支持 gpt-image-2.6 / 2 图像模型与 2.6 系列原生 GIF。粘贴账号一键入池自动登录，自带调用日志、图片库、消耗统计与 OpenAI 兼容本地 API。",
+  "author": {
+    "name": "Ruodao"
+  },
+  "ui": "./ui.json"
+}
